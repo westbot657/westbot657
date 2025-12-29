@@ -1,6 +1,7 @@
 ## ── Westbot ──
 
-Visit my website [here](https://westbot657.github.io)
+Minecraft and Beat Saber modder  
+
 
 
 <!--
